@@ -1,0 +1,6 @@
+{
+    "name": "mkDev/mktest",
+    "require": {
+        "php": "5.4.*"
+    }
+}
