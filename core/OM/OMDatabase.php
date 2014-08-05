@@ -1,4 +1,4 @@
-<?php
+<?php namespace core\OM;
 
 Class OMDatabase{
 	static function test(){
