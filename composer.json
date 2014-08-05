@@ -1,11 +1,11 @@
 {
     "name": "mkDev",
+    "require": {
+        "php": "5.4.*"
+    }
     "autoload": {
         "psr-0": {
             "mkDev": "core/"
         }
     }
-    // "require-dev": {
-    // "phpunit/phpunit": "~3.7"
-    // }
 }
