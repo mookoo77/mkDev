@@ -1,11 +1,8 @@
 {
     "name": "mkDev",
-    "require": {
-        "php": "5.4.*"
-    },
     "autoload": {
-        "psr-4": {
-            "OM\\": "core/"
-        }
+        "classmap": [
+            "core/OM"
+        ]
     }
 }
