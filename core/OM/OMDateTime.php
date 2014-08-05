@@ -1,4 +1,4 @@
-<?php namespace core\OM;
+<?php
 
 Class OMDateTime{
 	static function test(){
