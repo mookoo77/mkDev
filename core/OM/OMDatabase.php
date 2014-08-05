@@ -1,7 +1,7 @@
 <?php
 
 Class OMDatabase{
-	function test(){
+	static function test(){
 		echo "Database";
 	}
 }

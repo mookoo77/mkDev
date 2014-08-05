@@ -1,7 +1,7 @@
 <?php
 
 Class OMDateTime{
-	function test(){
+	static function test(){
 		echo "Datatime";
 	}
 }

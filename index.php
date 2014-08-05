@@ -1,9 +1,8 @@
 <?php
 
 include "core/common.php";
+OMDatabase::test();
 
-$DB = new OMDatabase();
-$DB->test();
 
 
 ?>
