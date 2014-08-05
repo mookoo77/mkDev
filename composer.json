@@ -2,7 +2,8 @@
     "name": "mkDev",
     "autoload": {
         "classmap": [
-            "core/OM"
+            "core/OM",
+            "system/core"
         ]
     }
 }
